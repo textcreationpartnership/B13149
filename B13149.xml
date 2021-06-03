@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for restraining the importation of Lattin VVire into this kingdome, and for support of that manufacture here.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13149</idno><idno type="EEBO-CITATION">99885675</idno>
+  <idno type="VID">185506</idno>
+  <idno type="EEBO-PROQUEST">2248538352</idno>
+  
+            <idno type="STC">STC 9122</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[53]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[32]</idno>
+            <idno type="STC">ESTC R224812</idno>
+            <idno type="PROQUEST">ocm99885675</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885675e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185506)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[53]; C10:2[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for restraining the importation of Lattin VVire into this kingdome, and for support of that manufacture here.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at our court at Oatlands in the nineteenth day of August, in the fourteenth yeer of our reign.</note>
+                  <note>Arms 24; Steele notation: this  of  2) or  com-.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tariff --  England --  Early works to 1800.</term>
+               <term type="topical_term">Trade regulation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Restraint of trade --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185506:1"/>
+            <pb facs="tcp:185506:1"/>
+            <head>¶ By the King.</head>
+            <head>¶ A Proclamation for restraining the importation of Lattin Wire into this Kingdome, and for support of that Manufacture here.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Lattin Wire is a Manufacture long practised within this</hi> Realme, and by that Trade and Mysterie many of Our loving Subjects have been for a long time well imployed and set on work; and by means thereof, some expert and skilfull men in that Art and Science have been trained up, who are now destitute of any other protession or means whereby to get their livings; And whereas English Wire being made of the best Calamine-stone (a native com<g ref="char:EOLhyphen"/>modity of this Kingdome) is of much better use then that Lattin Wire which cometh from forrain parts, especially for the making of good and stiffe Pinnes, whereof great quantities made here have of late been transported out of this Kingdome; And whereas by the Wire-drawers of this Manufacture sundry complaints have been made, that by reason of the great quantities of Lattin Wire lately imported into the Realm from forrain parts; (whereof much is often de<g ref="char:EOLhyphen"/>ceiptfully made and wrought) Our said poor subjects, who make Lattin Wire, cannot be set on work in their said Trade, whereby so profitable and usefull and Art may in short time be lost within the Kingdome; We being minded to provided for the imployment and setting on work of Our own Subjects in the said Art and Manufacture, and that Our Kingdome may not depend of being served only from forrain parts with Lattin Wire, being a commodity of such necessary use, whereby also Strangers at their own pleasures may raise their prizes, or serve us with false and unserviceable Wire, to the damage of Our people: And finding that sundry good Lawes and Provisions have formerly been made, prohibiting the importation of forrain Manufactures made of the said Lattin Wire, for the better therishing and incoura<g ref="char:EOLhyphen"/>ging of so profitable and necessary Manufactures within this Kingdome; We taking the Premises into consideration, have thought fit to inhibit the importation of forrain Lattin Wire: And do therefore hereby straitly charge and command all and singular person and per<g ref="char:EOLhyphen"/>sons whatsoever, as well Our own naturall born Subjects, as Denizens and Strangers, that none of them, nor any other person or persons whatsoever, do at any time or times after the Feast of Saint <hi>Michael</hi> the Archangel next coming, import or bring, or cause to be imported or brought into this Our Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> Port or Town of <hi>Barwick,</hi> and Lattin Wire made in forrain parts, upon pain of forfeiture of all and every such forrain Lattin Wire as shall be so imported, or brought into Our said Realm or Dominion, contrary to this Our Royall Commandment.</p>
+            <pb facs="tcp:185506:2"/>
+            <pb facs="tcp:185506:2"/>
+            <p>And Our Royall will and pleasure is, that all such forrain Lattin Wire which shall be imported contrary to these presents, shall by such person and persons who shall seize the same, be forthwith carried and conveyed into Our Custome-house within Our Port of <hi>London,</hi> or other Custome-house of that Port, where the same shall be seized, without selling, uttering, compounding, or delivering any part thereof, before the same be thither brought and delivered as aforesaid, upon pain of Our high indignation and displeasure, and of such further pains, penalties, and punish ments, as by the Lawes, and Statutes of this Our Realm, or Our Prerogative Royall, for the contempt of Our commandment in this behalf may any way be inflicted upon them or any of them so offending, contrary to the true intent and meaning of these presents: And to that end and purpose, we do hereby require and command all and sin<g ref="char:EOLhyphen"/>gular the Officers of Our Customes, or attending the same within all and every the Ports and Havens of Our said Realm and Dominion, and the Creeks and members thereof, That they and every of them, from and after the Feast of Saint <hi>Michael</hi> the Archangel next com<g ref="char:EOLhyphen"/>ing, do forbeat to take any Entry or Entries, or to make any Composition, or Compositions, for any Custome, Subsidie, or other duty, for or upon any Lattin Wire brought or to be brought into Our said Realm or Donunion, from any forrain parts; And also that they, and all and every other Our Officers and Ministers, do stay and seize the same as forfeited, to the uses hereafter specified, upon pain of Our high indignation and displeasure for their neg<g ref="char:EOLhyphen"/>lect herein.</p>
+            <p>And to the end Our intention herein may take the better effect; We do hereby declare Our will and pleasure to be, That such person and persons as shall make seizure of any of the said forrain Lattin Wire, according to Our Royall commandment herein signified, shall have and receive to his or their own use or uses, one moiety or half part of the same Wire, so by him or them to be seized as aforesaid; the other moiety thereof to be reserved to Our use.</p>
+            <p>And for the better execution of this O<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> present will and commandment, We do straitly charge and command all Iustices of the Peace, Maiors, Sheriffes, Bailiffs, Constables, Head<g ref="char:EOLhyphen"/>boroughs, Tythingmen, and all other Our Officers, Ministers, and loving Subjects, to whom it shall or may appertain, That they and every of them at all time and times, from and after the Feast of Saint <hi>Michael</hi> the Archangel next coming, be aiding and assisting to Our said Customers, Comptrollers, Collectors, Searchers, Waiters, and to all other person and persons imployed for the searching in any Ship, House, Warehouse, or Cellar, and for seizing, taking, and carrying away of all and every such Lattin Wire as from and after the Feast of Saint <hi>Michael</hi> the Archangel next shall be imported contrary to this Our Royall com<g ref="char:EOLhyphen"/>mandment.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Oatlands </hi>
+                  <date>
+                     <hi>the nineteenth day of August, in the fourteenth yeer of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>¶ <hi>God save the King.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
